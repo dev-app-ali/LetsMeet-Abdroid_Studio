@@ -1,3 +1,20 @@
+<h1>Introduction</h1>
+<p>This app will allow you to start Live Streaming where you have options to:</p>
+<ul>
+  <li>Mute & unmute</li>
+<li>Turn ON & OFF Camera of host</li>
+<li>REAL-TIME count of participants</li>
+<li>Live Chatting  </li> 
+</ul>
+
+<strong>Note: </strong>
+<ul>
+  <li>Only Host can Start & End live stream</li>
+<li>Only Host can Speake, participants just chat </li>
+<li>Only Host can Turn ON & OFF his Microphone</li>
+<li>Host can Turm ON & OFF or switch between Rear & Front Camera </li> 
+</ul>
+
 <h1>Sreenshots</h1>
 <hr>
 <br>
