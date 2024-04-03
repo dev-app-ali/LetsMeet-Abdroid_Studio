@@ -77,6 +77,12 @@
             android:textSize="16sp"
             android:background="@drawable/rounded_corner_allsides"
             android:id="@+id/go_live_btn"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="By  ALI "
+            android:gravity="center"
+            android:layout_marginTop="40dp"/>
 
 
 
